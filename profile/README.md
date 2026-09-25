@@ -20,6 +20,9 @@ Development and validation of a clinico-pathological model to predict absolute m
 ### [D-ESMEL Study: Spatial Immune Microenvironment](https://github.com/erasmusmc-dermatology/onco_desmel_tme_code)
 Codebase for analyzing the spatial immune microenvironment in early-stage melanoma.
 
+### [Profiling skin microbiota in an underrepresented population](https://github.com/erasmusmc-dermatology/microbiota_SkinMicrobiota)
+Profiling cutaneous bacterial microbiota of Indonesian children with atopic dermatitis
+
 ### [Automated Detection of cSCC](https://github.com/erasmusmc-dermatology/onco_clam_addmil)
 Weakly-supervised learning approaches for the automated detection of cutaneous squamous cell carcinoma in whole slide images of skin biopsies.
 
